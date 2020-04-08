@@ -1,4 +1,6 @@
-# DH150
-This repository will be home to all of my assignments for Digital Humanities 150 - User Experience Design
+### DH150 - NATHANIELKRAUT
 
-Testing....
+### Nathaniel Asher Kraut - DH 150: User Experience Design
+
+## My UX Project: Redesigning The Marlboro Township (NJ) Public Schools Website
+
