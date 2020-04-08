@@ -124,3 +124,20 @@ The school district’s website violates this heuristic of help and documentatio
 **Severity Rating: 3/3, Must Be Fixed**
 
 <img src="./MTPS_1_A.png" width = "75%"> 
+
+
+## Heuristic Evaluation #2 - Marlboro Township Public School District Website 
+
+OVERVIEW 
+
+Being someone that is deeply invested and convinced of the value of young learning and in particular virtual learning, I appreciate the importance and need for a great school district website. After taking a look into my hometown's website I wanted to do a similar investigation into the school district of my current home, Los Angeles, CA. Thus, for my second heuristic evaluation I chose to do yet another thorough analysis of a public school district website and arrived on the Los Angeles Unified School District website. 
+
+OVERALL EVALUATION
+
+Upon reviewing this website I found a lot of similarities to the previous in terms of areas of user experience design that it lacks any attention to. Most notably, the minimalist design has seemingly been thrown out of the window as the landing pages are downright distracting and confusing to the user who is on a quest for knowledge. However, there were certainly some areas that this website shines in related to design that the Marlboro website completely lacked such as accelerators for experienced users and help/documentation. All in all, the website is for sure in need of an overhaul. 
+
+SCREENSHOTS OF USER INTERFACE AND DIRECT LINK
+
+https://achieve.lausd.net/domain/4
+
+
