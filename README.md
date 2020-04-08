@@ -30,7 +30,11 @@ This heuristic deals with the idea that the website, mobile application, or prod
 
 The website of choice maintains a poor visibility of system status throughout its use and thus violates this heuristic. If you select an option using the top menu and arrive at the page it does not change its status as shown in the screenshots below. In the example screenshots I expected see to see option I choose highlighted to tell me which page of the website I was on but, instead it remains the same. Simply inverting the colors of the option selected could alleviate this problem allowing users to see into what’s happening and where they are in the website. 
 
+**Severity Rating: 2/3, major usability issue**
+
 <img src="./MTPS_1_A.png" width = "75%"> <img src="./MTPS_1_B.png" width = "75%"> 
+
+
 
 2. Match Between the System and the Real World
 
