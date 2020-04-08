@@ -111,7 +111,7 @@ This heuristic deals with the idea that error messages should be expressed in pl
 
 The school district’s website does in fact abide by the heuristic of allowing users to easily recognize, diagnose, and recover from their errors. When attempting to login to a student’s account if their login credentials are incorrect there is a very clear error message displayed at the top of the screen stating the user has entered an incorrect password and/or email. This is done well as it tells the user almost exactly what to fix in order to succeed in their use. 
 
-**Severity Rating: 0/3, No Usability Issue**
+**Severity Rating: 1/3, No Usability Issue**
 
 <img src="./MTPS_9_A.png" width = "75%"> 
 
@@ -141,4 +141,84 @@ SCREENSHOTS OF USER INTERFACE AND DIRECT LINK
 https://achieve.lausd.net/domain/4
 
 <img src="./LAUSD_UI_1.png" width = "40%"> <img src="./LAUSD_UI_2.png" width = "40%"> 
-<img src="./MTPS_UI_3.png" width = "40%"> <img src="./LAUSD_UI_4.png" width = "40%">
+<img src="./LAUSD_UI_3.png" width = "40%"> <img src="./LAUSD_UI_4.png" width = "40%">
+
+1. Visibility of System Status
+
+The LAUSD website does in fact violate this UX design heuristic of visibility of system status. This heuristic entails that users are show exactly where they are in the system at any given point and can easily navigate between the site map. When using the website no matter which sub-page you are on, the menu options look the exact same with none of them highlighted. Thus, here in the screenshot I am on the Calendar tab but, in the menu options you can not tell this whatsoever. In order to fix this easily one might just designated a highlight color for the user's current tab/location.
+
+**Severity Rating: 3/3, Must Be Fixed**
+
+<img src="./LAUSD_1_A.png" width = "75%"> 
+
+2. Match Between the System and the Real World 
+
+This design heuristic tells us that good design is a design who uses/speaks the same language as the user is use to. Here, the LAUSD actually does a great job to do just that by making the menu options as intuitive as possible. Users for certain know what "Find a School" entails and the same is true for "Calendar" and "Employees". Thus, this is actually an example of this heuristic being well done. 
+
+**Severity Rating: 1/3, No Usability Issue**
+
+<img src="./LAUSD_1_A.png" width = "75%"> 
+
+3. User Control and Freedom
+
+This heuristic is the idea that great systems are designed with user mistakes in mind. It is frequent that users, especially inexperienced ones will inevitably click an incorrect button and navigate to the wrong page. As a result it is crucical to offer users and undo/redo option. LAUSD fails to do so here and I am forced to use my browsers back button. There is no site map tree at the top where I can easily undo my action here of navigating to the directory page. To fix this there should be a site map tree at the top of navigation buttons. 
+
+**Severity Rating: 2/3, Minor Usability Issue**
+
+<img src="./LAUSD_3_A.png" width = "75%"> 
+
+4. Consistency and Standards
+
+This design heuristic here deals with the idea that great design does not leave the user guessing in its conventions. The system uses uniform fonts, inductor messages, sizes, etc. The LAUSD website does not abide by this heuristic as seen through what's quickly becoming their infamous menu bar. The menu bar here has half the options listed with a black background and half the options listed with a white background. As a user I am left guessing as to why this is? To fix this the options should just be made all the same color. 
+
+**Severity Rating: 3/3, Must Be Fixed**
+
+<img src="./LAUSD_1_A.png" width = "75%"> 
+
+5. Error Prevention
+
+This design heuristic is the idea that great systems are designed to prevent the user from making a potentially catastrophic mistake and thus, are designed frequently with confirmation pages asking the user to confirm a major selection. The LAUSD website violates this design heuristic as it brings outside of the main interface when going to the option of "find a school" and it doesn't ask me to confirm that selection eventhough its effectively a death sentence. To fix this there must be a confirmation button added to ensure the user wanted to proceed. 
+
+**Severity Rating: 3/3, Must Be Fixed**
+
+<img src="./LAUSD_5_A.png" width = "75%"> 
+
+6. Recognition Rather Than Recall 
+
+This heuristic outlines the fact that systems should make the amount of knowledge a user needs to memorize as small as possible. Users should be prompted with choices and just have to select which choices they prefer. The LAUSD website actually does abide by this design principle as all of the options are pretty clearly displayed on the screen. For example in the screenshot below users would not need to remember that they wanted to go to the district's social media pages since the options are offered to them without asking in the lower right hand corner. 
+
+**Severity Rating: 1/3, No Usability Issue**
+
+<img src="./LAUSD_6_A.png" width = "75%"> 
+
+7. Flexibility and Efficiency of Use
+
+This design heuristic has to deal with the idea that accelerators are necessary to give more advanced users the opportunity to move through the software quicker without hindering the experience of first time users. A great example is displayed on the district's homepage of a permamanet "Sign In" button something the Marlboro NJ district lacked. Having this here allows those with accounts to access them quickly without taking away from the first time user's experience. 
+
+**Severity Rating: 1/3, No Usability Issue**
+
+<img src="./LAUSD_6_A.png" width = "75%"> 
+
+8. Aesthetic and Minimalist Design 
+
+This heuristic deals with the idea that information conveyed on the screen should as direct as possible. Anything extra is distracting to the user. The LAUSD website actually doesn't do such a great job with this as they went overboard. The designers interpreted this to mean having no options whatsoever on the homescreen and instead a large photo. This is great and all except for the fact that a determined user won't care about the photo and will want options right away. To fix this, there should be basic options display toward the top of the UI. 
+
+**Severity Rating: 2/3, Minor Usability Issue**
+
+<img src="./LAUSD_UI_1.png" width = "75%">
+
+9. Help Users, Recognize, Diagnose, and Recover From Errors
+
+This design heuristic has to do with the fact that users should be shown clear error messages when they make a mistake so that they can recover quickly and keep moving. Ths LAUSD website succeeds in offering this to its users on its sign-in page similar to the Marlboro, NJ page by telling users if their password or email is incorrect which is crucial for a user's understadning of how to proceed further. 
+
+**Severity Rating: 1/3, No Usability Issue**
+
+<img src="./LAUSD_9_A.png" width = "75%"> 
+
+10. Help and Documentation 
+
+This design heuristic has to do with the fact that users should be given the option to recieve clear, precise, and effective help when they are unsure of what to do. The LAUSD website understands this and actually offers a feedback option on the main page so users can reach out for help as well as offering an option to submit an email for help. 
+
+**Severity Rating: 1/3, No Usability Issue**
+
+<img src="./LAUSD_UI_1.png" width = "75%">
