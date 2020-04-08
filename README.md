@@ -34,7 +34,6 @@ The website of choice maintains a poor visibility of system status throughout it
 
 <img src="./MTPS_1_A.png" width = "75%"> <img src="./MTPS_1_B.png" width = "75%"> 
 
-
 2. Match Between the System and the Real World
 
 This heuristic deals with the idea that the completed product should use the same language, gestures, concepts, etc. that the user is faimiliar with. That said, the system should follow the same real-world conventions such that the user does not have to guess as to what certain items on the screen mean. 
