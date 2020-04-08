@@ -20,15 +20,17 @@ SCREENSHOTS OF USER INTERFACE AND DIRECT LINK
 
 https://www.mtps.org
 
-<img src="./MTPS_UI_1.png" width = "40%"> <img src="./MTPS_UI_2.png" width = "40%"> 
-<img src="./MTPS_UI_3.png" width = "40%"> <img src="./MTPS_UI_4.png" width = "40%">
-<img src="./MTPS_UI_5.png" width = "40%">
+<img src="./MTPS_UI_1.png" width = "50%"> <img src="./MTPS_UI_2.png" width = "50%"> 
+<img src="./MTPS_UI_3.png" width = "50%"> <img src="./MTPS_UI_4.png" width = "50%">
+<img src="./MTPS_UI_5.png" width = "50%">
 
 1. Visibility of System Status
 
 This heuristic deals with the idea that the website, mobile application, or product in general should always give the user a look into what is currently happening on the application/website within a reasonable amount of time. Thus, great visibility of system status will allow the user to know where they are in the application in real-time and never leave the user in a state of confusion or limbo. 
 
 The website of choice maintains a poor visibility of system status throughout its use and thus violates this heuristic. If you select an option using the top menu and arrive at the page it does not change its status as shown in the screenshots below. In the example screenshots I expected see to see option I choose highlighted to tell me which page of the website I was on but, instead it remains the same. Simply inverting the colors of the option selected could alleviate this problem allowing users to see into what’s happening and where they are in the website. 
+
+<img src="./MTPS_1_A.png" width = "50%"> <img src="./MTPS_1_B.png" width = "50%"> 
 
 2. Match Between the System and the Real World
 
