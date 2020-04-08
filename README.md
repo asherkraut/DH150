@@ -16,6 +16,6 @@ SCREENSHOTS OF USER INTERFACE AND DIRECT LINK
 
 https://www.mtps.org
 
-<img src="./MTPS_UI_1.png" width = "40%">
-
-
+<img src="./MTPS_UI_1.png" width = "40%"> <img src="./MTPS_UI_2.png" width = "40%"> 
+<img src="./MTPS_UI_3.png" width = "40%"> <img src="./MTPS_UI_4.png" width = "40%">
+<img src="./MTPS_UI_5.png" width = "40%">
