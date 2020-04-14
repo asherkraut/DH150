@@ -1,3 +1,3 @@
-# DH150 assignment02 Usability testing
+# DH150 - Assignment 02 - Usability Testing
 
 ## description
