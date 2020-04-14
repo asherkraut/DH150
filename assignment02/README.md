@@ -11,3 +11,7 @@ The test took place inside my apartment, specifically in my home office, as cond
 This test was merely just a pilot test for further usability testing. The test included background questions about whether or not the user had interacted with the product before as well as his/her specific use case for previous interaction. The test then had a series of pre-test questions that asked the user about their thoughts on the product's ease of use based on appearance solely, no interaction. Afterwards, the test included a series of tasks, 3 to be specific, that asked the user to interactive with the desktop website to complete various goals. These tasks included checking for the school lunch menu, logging into the teacher portal, and checking for school closures due to holidays. 
 
 Overall, the test was aimed at getting a better understanding for the product's ease of use and seeing if I was able to confirm/deny the findings from my heuristic evaluation I made previously. 
+
+## Test Materials:
+
+The usability materials [here](https://forms.gle/k9PRhLf7a4JgktyZ8)
