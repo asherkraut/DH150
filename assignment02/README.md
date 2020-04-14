@@ -1,6 +1,6 @@
 # DH150 - Assignment 02 - Usability Testing
 
-## Introduction
+## Introduction:
 
 mtps.org is a mobile and desktop website for the Marlboro Township Public School District in Marlboro, NJ. The website is used by students, parents, and teachers for all sorts of aids in the learning process such as homework calendars, links to additional activities, human resources, school lunch menus, and more. Students, parents, and teachers are also able to create personalized logins where they can access certain features of the website specific to their needs. 
 
