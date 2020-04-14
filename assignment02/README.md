@@ -21,3 +21,11 @@ Here is a link to the participant survey and moderator script [here](https://for
 Here is the link to the video of the Pilot UT [here](https://drive.google.com/file/d/1lAEhSZTFidVZPioxROPwP-Xv10t4czzm/view?usp=sharing)
 
 ## Reflection:
+
+Looking back on the results gathered as well as the actual pilot usability test itself, I've learned quite a few things. For starters, I now understand the designer's dilemma more so than ever and got an opportunity to see just how difficult it is to extract meaningful data from testing. Unless the test is absolutely flawless, which almost no tests are, then the results are certainly questionable at best. 
+
+Moreover, it's important to conduct at least a few rounds of pilot UTs so that the usability testing that is conducted on a more wide spread scale can yield the best results possible and I even saw that in the one I completed this week. In terms of what went well I would say overall I witnessed some of the same errors/flaws that I originally had myself with the user who tested the product this week which is a promising sign that a redesign is in fact needed. One piece of evidence in particular was when the user really struggled to locate the lunch menus and felt as if the website was overwhelming in general and downright confusing. 
+
+One thing I need to improve on for future usability testing will for sure the precieness of my questions. I realized during the pilot test that although it's great to gather a lot of questions with "likely, very likely, etc." I really want ot be gathering more quantative insights such to improve my product even more. For example, how many clicks is it taking users on average to rech the lunch menu, etc. 
+
+That said, this experience of conducting a pilot usability test was eye opening and I'm looking forward to improving my process and running more soon. 
