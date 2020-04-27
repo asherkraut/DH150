@@ -10,7 +10,7 @@ Step 1: Specify the main design challenge
 
 2. What is the basic need involved for that activity?
     
-    This activity fufills all of the users' basic need for continuous access to their assignments, calendars, and more. There is always that age-old concern shared by students, teachers, and parents alike that information will be loss in translation from teachers to students to parents and so having this increased transparency is crucial. 
+    This activity fufills all of the different users' same basic need for continuous access to their assignments, calendars, and more. There is always that age-old concern shared by students, teachers, and parents alike that information will be loss in translation from teachers to students to parents and so having this increased transparency is crucial. 
     
 3. What is/are the traditional/current solution(s) to satisfy the needs?
     
