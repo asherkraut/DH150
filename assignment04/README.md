@@ -18,4 +18,6 @@ Step 1: Specify the main design challenge
 
 4. What is/are the limitation(s) that possibly would be improved with (digital) technology?
     
-    L
+    One of the biggest limitations here that can be improved with digital technology is the lack of clarity in student assignments. As it stands students come home and tell their parents about what assignments they have, but the parents are not filled in on the teacher's words from class about the assignments. Having a redesigned platform to offer this to users could solve that by allowing teachers to post all of their content in real-time, eliminating the information lag. This will inevitably allow parents to offer more dedicated help to their children instead of having to wait multiple days for clarification. 
+    
+Step 2: Identify Target Users
