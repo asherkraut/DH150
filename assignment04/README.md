@@ -42,4 +42,14 @@ Step 3: Pick Observation Methods
 
    For my observations I decided to use the direct observation method by asking my sister, a current parent of an elementary school student in the Marlboro Township Public School District, to participate in a thorough interview with me. In the interview we focused mainly on her specific use-cases for the school's website, what the website means to her, and how she might change its functionality to make it more useful for herself. Below you can find the script used to interview, the raw interview itself, and my notes from the session. 
 
+## Participatory Research Materials:
 
+1. Contextual Inquiry Guide
+
+Please find my script for this interview here, with an introduction, goals, and contextual questions.
+
+2. User Data
+
+Please find the recording of the interview here.
+
+The transcription of the interview can be found here.
