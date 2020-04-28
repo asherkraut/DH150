@@ -14,7 +14,7 @@ Step 1: Specify the main design challenge
     
 3. What is/are the traditional/current solution(s) to satisfy the needs?
     
-    The current solution in place is the school district's current website. The current website lacks crucial navigation features that ultimately defeat the purpose of the platfomr itself. If the information is not easily and readily available to all it is as good as the platform not functioning at all. Alternatives to the current site may look like google calendars for homework created by teachers, emailing back and forther from parents to teachers for information, and students notepads where they may write down the information learned in class. 
+    The current solution in place is the school district's current website. The current website lacks crucial navigation features that ultimately defeat the purpose of the platform itself. If the information is not easily and readily available to all it is as good as the platform not functioning at all. Alternatives to the current site may look like google calendars for homework created by teachers, emailing back and forth from parents to teachers for information, and students notepads where they may write down the information learned in class. 
 
 4. What is/are the limitation(s) that possibly would be improved with (digital) technology?
     
