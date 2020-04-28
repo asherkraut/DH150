@@ -21,3 +21,17 @@ Step 1: Specify the main design challenge
     One of the biggest limitations here that can be improved with digital technology is the lack of clarity in student assignments. As it stands students come home and tell their parents about what assignments they have, but the parents are not filled in on the teacher's words from class about the assignments. Having a redesigned platform to offer this to users could solve that by allowing teachers to post all of their content in real-time, eliminating the information lag. This will inevitably allow parents to offer more dedicated help to their children instead of having to wait multiple days for clarification. 
     
 Step 2: Identify Target Users
+
+1. What are the characteristics of users? (ex. demographics, preference, expertise)
+    
+    Demographic: Marlboro Township (NJ) residents, elementary and middle school students aged 5-14, technologically capable parents with children in the school district, teachers and administrators within the district
+    
+    Preferences: Users have the preference of accessing school related information online instead of using traditional pencil/notepad methods. 
+
+    Expertise: Users should not and will not need any prior knowledge or technical expertise to use this website
+
+2. Where would the users do that activity? (ex. context of use)
+
+    There is a few specific use cases that come to mind in regards to this website. The first, and perhaps most obvious use case, would be a student accessing a log of all their assignments, in class exercises, etc., after coming home from school. This allows them to no longer be responsible for writing everything down verbatim in class and can focus on absorbing knowledge instead. The next use-case would be for parents looking for general knowledge related to school perhaps like a vacation calendar if they're eager to plan a getaway or even checking the lunch menu to see if the options are healthy enough so they don't have to pack their child lunch. They would use this site either on the go using a mobile device or using their home computer. Lastly, teachers would be hoping to use the platform in their homes as well, uploading documents far in advace of using them in class so that parents and student have an idea of what to expect moving forward. 
+
+3. What would the users do to complete that activity? (e.g., goal, operation, method, action)
