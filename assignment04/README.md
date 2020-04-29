@@ -56,10 +56,11 @@
 
 ## Key Findings from the Interview:
 
-1. The user's current experience with checking on and staying up-to-date with their child's homework assignment. (3:45)
+1. The user's current experience with staying up-to-date with their child's homework assignments. (3:45)
     >The user told of their current experiences trying to figure out and stay current with their child's homework assignments and said that these assignments are distributed to the students in their take-home folders as a physical document and there exsist no web extension whatsoever. The user spoke to the fact that if your kid is messy or just lazy and doesn't keep hold of the paper then you will not receive the weekly homework schedule and have no idea what is going on!
 
-2. 
+2. The user's past experiences with technology in their own education. (13:15)
+    >The user received an entire degree online and has used a ton of platforms online for learning. From those experiences, the user highlighted that random updates from the professor whether it be weekly, monthly, etc. don't do anything. The user said constant communication streams are the only way to really communicate effectively since everything is happening so fast and if you don't keep up then you get behind very, very quickly. 
 
 ## Reflection:
 
