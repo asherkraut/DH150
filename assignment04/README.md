@@ -50,6 +50,6 @@ Please find my script for this interview [here](https://docs.google.com/document
 
 **User Data**
 
-Please find the recording of the interview here.
+The raw footage from the interview can be found here.
 
-The transcription of the interview can be found here.
+My transcription of this interview can be found here.
