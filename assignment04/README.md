@@ -46,7 +46,7 @@
 
 Contextual Inquiry Guide
 
-Please find my script for this interview [here](https://docs.google.com/document/d/1v0RRJNbNWFGiGA1mOn_4-al-        XQOZlrdxGuBPMjzd6Ps/edit?usp=sharing) which includes an introduction to the contextual inquiry as a whole, goals for my research, and more. 
+Please find my script for this interview [here](https://docs.google.com/document/d/1v0RRJNbNWFGiGA1mOn_4-al-        XQOZlrdxGuBPMjzd6Ps/edit?usp=sharing) which includes an introduction to the contextual inquiry as a whole, goals for my research, and more.
 
 **User Data**
 
