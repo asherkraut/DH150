@@ -64,6 +64,4 @@
     
 ## Reflection:
 
-## Reflection:
-
-    This was first time doing a contextual inquiry and really enjoye the process. Getting to understand the idea that building great products is about so much more than just asking the user to tell you the answers, you have to infer them! Getting to learn who people are through their value systems, cultural habits, etc. is so fascinating as truly every user is different and preforming this brief contextual inquiry opened my eyes to that idea. In the future, I think diversifying my audience as much as possible in my contextual inquiries will help to understand a product roadmap so much better than just identifying one specific user and/or demographic. 
+   This was first time doing a contextual inquiry and really enjoye the process. Getting to understand the idea that building great products is about so much more than just asking the user to tell you the answers, you have to infer them! Getting to learn who people are through their value systems, cultural habits, etc. is so fascinating as truly every user is different and preforming this brief contextual inquiry opened my eyes to that idea. In the future, I think diversifying my audience as much as possible in my contextual inquiries will help to understand a product roadmap so much better than just identifying one specific user and/or demographic. 
