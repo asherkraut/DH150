@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-Step 1: Specify the main design challenge
+__Step 1: Specify the main design challenge
 
 1. What is the main activity your project would support the users in accomplishing? 
     
@@ -20,7 +20,7 @@ Step 1: Specify the main design challenge
     
     One of the biggest limitations here that can be improved with digital technology is the lack of clarity in student assignments. As it stands students come home and tell their parents about what assignments they have, but the parents are not filled in on the teacher's words from class about the assignments. Having a redesigned platform to offer this to users could solve that by allowing teachers to post all of their content in real-time, eliminating the information lag. This will inevitably allow parents to offer more dedicated help to their children instead of having to wait multiple days for clarification. 
     
-Step 2: Identify Target Users
+__Step 2: Identify Target Users
 
 1. What are the characteristics of users? (ex. demographics, preference, expertise)
     
@@ -38,7 +38,7 @@ Step 2: Identify Target Users
 
     Completeing these activities would require different steps depending on the user. The student would have their own designated log-in where they can input their username and password to platform and receive a customized view of only their assignments and their courses. Parents could then use their children's log-in to view the same, or even operate the site as a guest where they'd have access to pdfs of the school calendar, lunch menus, announcements, etc. Teachers, similar to students, would have a designated log-in where they can access their website editor and would have the option to browse their computer for files to upload, post class notes, make announcements, and more, all in an intuitive user interface. 
     
-Step 3: Pick Observation Methods
+__Step 3: Pick Observation Methods
 
    For my observations I decided to use the direct observation method by asking my sister, a current parent of an elementary school student in the Marlboro Township Public School District, to participate in a thorough interview with me. In the interview we focused mainly on her specific use-cases for the school's website, what the website means to her, and how she might change its functionality to make it more useful for herself. Below you can find the script used to interview, the raw interview itself, and my notes from the session. 
 
@@ -46,7 +46,7 @@ Step 3: Pick Observation Methods
 
 1. Contextual Inquiry Guide
 
-Please find my script for this interview [here](https://docs.google.com/document/d/1v0RRJNbNWFGiGA1mOn_4-al-XQOZlrdxGuBPMjzd6Ps/edit?usp=sharing), which includes an introduction to the contextual inquiry as a whole, goals for my research, and more. 
+Please find my script for this interview [here](https://docs.google.com/document/d/1v0RRJNbNWFGiGA1mOn_4-al-        XQOZlrdxGuBPMjzd6Ps/edit?usp=sharing), which includes an introduction to the contextual inquiry as a whole, goals for my research, and more. 
 
 2. User Data
 
