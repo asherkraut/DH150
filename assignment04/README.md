@@ -52,7 +52,7 @@ Please find my script for this interview [here](https://docs.google.com/document
 
 The raw footage from the interview can be found here.
 
-My transcription of this interview can be found here.
+My transcription of this interview can be found [here](https://docs.google.com/document/d/14zCWNCYgJu9LH6X2pbn8dczrcrrM_fvTs1p3H93NSjI/edit?usp=sharing).
 
 ## Reflection:
 
