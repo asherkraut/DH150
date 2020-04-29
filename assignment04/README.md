@@ -46,7 +46,7 @@ Step 3: Pick Observation Methods
 
 1. Contextual Inquiry Guide
 
-Please find my script for this interview here, with an introduction, goals, and contextual questions.
+Please find my script for this interview [here](https://docs.google.com/document/d/1v0RRJNbNWFGiGA1mOn_4-al-XQOZlrdxGuBPMjzd6Ps/edit?usp=sharing), which includes an introduction to the contextual inquiry as a whole, goals for my research, and more. 
 
 2. User Data
 
