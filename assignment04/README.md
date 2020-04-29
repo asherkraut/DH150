@@ -42,7 +42,7 @@
 
    >For my observations I decided to use the direct observation method by asking my sister, a current parent of an elementary school student in the Marlboro Township Public School District, to participate in a thorough interview with me. In the interview we focused mainly on her specific use-cases for the school's website, what the website means to her, and how she might change its functionality to make it more useful for herself. Below you can find the script used to interview, the raw interview itself, and my notes from the session. 
 
-## Participatory Research Materials:
+## Research Materials:
 
 **Contextual Inquiry Guide**
 
@@ -53,6 +53,13 @@
 >The raw footage from the interview can be found here.
 
 >My transcription of this interview can be found [here](https://docs.google.com/document/d/14zCWNCYgJu9LH6X2pbn8dczrcrrM_fvTs1p3H93NSjI/edit?usp=sharing).
+
+## Key Findings from the Interview:
+
+1. The user's current experience with checking on and staying up-to-date with their child's homework assignment. (3:45)
+    >The user told of their current experiences trying to figure out and stay current with their child's homework assignments and said that these assignments are distributed to the students in their take-home folders as a physical document and there exsist no web extension whatsoever. The user spoke to the fact that if your kid is messy or just lazy and doesn't keep hold of the paper then you will not receive the weekly homework schedule and have no idea what is going on!
+
+2. 
 
 ## Reflection:
 
