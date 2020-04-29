@@ -1,4 +1,4 @@
-# DH150 - Assignment 04 - Contextual Inquiry
+# DH150 - Assignment 04 - Contextual Inquiry - N. Asher Kraut
 
 ## Introduction:
 
