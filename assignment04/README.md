@@ -61,7 +61,9 @@
 
 2. The user's past experiences with technology in their own education. (13:15)
     >The user received an entire degree online and has used a ton of platforms online for learning. From those experiences, the user highlighted that random updates from the professor whether it be weekly, monthly, etc. don't do anything. The user said constant communication streams are the only way to really communicate effectively since everything is happening so fast and if you don't keep up then you get behind very, very quickly. 
+    
+## Reflection:
 
 ## Reflection:
 
-    >This was first time doing a contextual inquiry and really enjoye the process. Getting to understand the idea that building great products is about so much more than just asking the user to tell you the answers, you have to infer them! Getting to learn who people are through their value systems, cultural habits, etc. is so fascinating as truly every user is different and preforming this brief contextual inquiry opened my eyes to that idea. In the future, I think diversifying my audience as much as possible in my contextual inquiries will help to understand a product roadmap so much better than just identifying one specific user and/or demographic. 
+    This was first time doing a contextual inquiry and really enjoye the process. Getting to understand the idea that building great products is about so much more than just asking the user to tell you the answers, you have to infer them! Getting to learn who people are through their value systems, cultural habits, etc. is so fascinating as truly every user is different and preforming this brief contextual inquiry opened my eyes to that idea. In the future, I think diversifying my audience as much as possible in my contextual inquiries will help to understand a product roadmap so much better than just identifying one specific user and/or demographic. 
