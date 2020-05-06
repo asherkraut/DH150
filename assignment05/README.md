@@ -36,7 +36,7 @@ Salma is a 4th grade teacher in the Marlboro Township Public School District in 
 
 In a perfect world, Salma's mobile device sends her a notification every morning, ten minutes before her students arrive urging her to upload the homework of the day to her teacher portal. After receiving the notification, she navigates to the school district's website and signs into her teacher account. Once inside the portal she sees two potential routes she can navigate through. The first is the pop-up window that greets her and tells her to post the homework. This pop-up window includes a directly linked button that will take her straight to the upload screen. At this upload screen she can either upload a document such as a pdf or she can input text right into the on-screen textbox. She can then simply press upload and this will automatically push it to all of her students' calendars in their respective student portals. If Salma were to accidentally close the pop-up window all she has to do is see the options menu on the left-hand side of the screen and select "homework calendar". Once doing so, she will be brought to the same screen that the pop-up window brought her to. With this redesigned interface, Salma can rest easy knowing both herself and her students will be able to see the homework assignments in real-time from any location. She feels relieved knowing that her prayers have been answered and the endless phone calls from her students' parents will stop. 
 
-
+<img src="./Salma_Journey_Map.png" width = "50%">
 
 **Chris Collin's Scenario**
 
