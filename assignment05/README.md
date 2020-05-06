@@ -18,7 +18,7 @@ UX Storytelling
 
 Salma Calor 
 
-<img src="Salma_Calor_Persona.png" width = "40%"> <img src="Salma_Calor_Empathy.png" width = "40%"> 
+<img src="./Salma_Calor_Persona.png" width = "40%"> <img src="./Salma_Calor_Empathy.png" width = "40%"> 
 
 Chris Collins
 
