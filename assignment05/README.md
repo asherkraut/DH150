@@ -46,3 +46,4 @@ In a perfect world, after his teacher has posted the homework for the day, Chris
 
 **Claudia Reynold's Scenario**
 
+Claudia Reynolds is a 32 year-old mother of 3 children. All three of her children are elementary school students in the Marlboro Township Public School District. 
