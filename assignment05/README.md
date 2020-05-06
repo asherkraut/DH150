@@ -18,12 +18,12 @@ UX Storytelling
 
 Salma Calor 
 
-<img src="./Salma_Calor_Persona.png" width = "40%"> <img src="./Salma_Calor_Empathy.png" width = "40%"> 
+<img src="./Salma_Calor_Persona.png" width = "50%"> <img src="./Salma_Calor_Empathy.png" width = "50%"> 
 
 Chris Collins
 
-<img src="./Chris_Collins_Persona.png" width = "40%"> <img src="./Chris_Collins_Empathy.png" width = "40%"> 
+<img src="./Chris_Collins_Persona.png" width = "50%"> <img src="./Chris_Collins_Empathy.png" width = "50%"> 
 
 Claudia Reynolds
 
-<img src="./Claudia_Reynolds_Persona.png" width = "40%"> <img src="./Claudia_Reynolds_Empathy.png" width = "40%"> 
+<img src="./Claudia_Reynolds_Persona.png" width = "50%"> <img src="./Claudia_Reynolds_Empathy.png" width = "50%"> 
