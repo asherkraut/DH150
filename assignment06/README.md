@@ -74,3 +74,27 @@ User Journey
 6. View panini information 
 
 <img src="./Parent_WireFlow_Annotated.jpeg" width = "80%">
+
+## User Testing and Iteration
+
+>After drawing some basic wireframes for the individual use cases, I asked hypothetical users to complete the three tasks that the wireframes were designed specifically for. 
+
+> 1. Upload the homework for the day after receiving a push notification. 
+>2. Check the day's homework after receiving a push notification and ask a clarifying question.  
+>3. View nutrition information on the daily lunch menu as well as pricing information. 
+
+User Walkthroughs
+
+>Below outlines the unique user journeys that the test users acted out in practice which actually gave me some practical insight on how real users might interact with my flows. 
+
+1. Upload the homework for the day after receiving a push notification.
+
+<img src="./Teacher_WireFlow_Testing.png" width = "80%">
+
+2. Check the day's homework after receiving a push notification and ask a clarifying question.
+
+<img src="./Student_WireFlow_Testing.png" width = "80%">
+
+3. View nutrition information on the daily lunch menu as well as pricing information. 
+
+<img src="./Teacher_WireFlow_Testing.png" width = "80%">
