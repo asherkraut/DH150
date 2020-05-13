@@ -91,10 +91,18 @@ User Walkthroughs
 
 <img src="./Teacher_WireFlow_Testing.png" width = "80%">
 
+In the teacher use case here, their intial thought was to check to see if they could change the date of upload to perhaps upload in advance of a future date but, were not able to. After failing in this attempt they proceeded to upload a PDF document for their homework of the day and successfully did so but requested a future feature to allow users to upload multiple PDF documents instead of just one. 
+
 2. Check the day's homework after receiving a push notification and ask a clarifying question.
 
 <img src="./Student_WireFlow_Testing.png" width = "80%">
 
+In the student use case here, the tester requested the option to see any day's homework that they might desire whereas the flow was only designed to show the one specific day's assignments. That aside, the user navigated the flow with ease, without requiring help. 
+
 3. View nutrition information on the daily lunch menu as well as pricing information. 
 
-<img src="./Teacher_WireFlow_Testing.png" width = "80%">
+<img src="./Parent_WireFlow_Testing.png" width = "80%">
+
+In the parent use case here, the tester identified some pretty glaring UX mistakes that I made when designing my flow, mostly centered around the intuitiveness of buttons and their respective locations. Ultimately though, once guided slightly the user did in fact successfully navigate through the flow easily. 
+
+## Reflection
