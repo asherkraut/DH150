@@ -13,8 +13,8 @@ Nathaniel "Asher" Kraut
 >As a result of these three personas, I elected to redesign the following three unique usage scenarios, although slightly interconnected at the same time:
 
 >1. Design a notification system that alerts teachers to upload homework every morning on a recurring basis via a mobile device push notification. Additionally, I have redesigned the UI of the upload screen to ensure it is as friction-less as possible. 
-2. Design a notification system for students that alerts them when their teachers have published the day's homework, to ensure they are seeing the most up to date information. 
-3. Add nutrition information to the daily lunch menu as well as pricing information. 
+>2. Design a notification system for students that alerts them when their teachers have published the day's homework, to ensure they are seeing the most up to date information. 
+>3. Add nutrition information to the daily lunch menu as well as pricing information. 
 
 ## Wireframes and User Flows
 
