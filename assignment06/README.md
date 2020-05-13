@@ -23,4 +23,54 @@ Nathaniel "Asher" Kraut
 >In the wireframes below I sketched the user journey a teacher would take when receiving a push notification to upload her homework in the morning. Note that the beinning of the flow assumes the user receives a push notification at 7:45am daily saying "Click here to upload the homework of the day!"
 
 Wireframes
+
 <img src="./Teacher_WireFlow.jpeg" width = "80%">
+
+User Journey 
+
+1. Push the notification that says "Click here to upload the homework of the day!"
+2. Select upload button
+3. Select PDF button in the type of upload section
+4. Select upload button
+5. Select desired file from device
+6. Homework uploaded successfully
+
+<img src="./Teacher_WireFlow_Annotated.jpeg" width = "80%">
+
+2. Student notification system for homework viewing
+
+>In the wireframes below I sketched the user journey a student would take when receiving a push notification to their mobile device that informs them their teacher has uploaded the day's homework. Similar to the teacher's user journey, this flow assumes that the student clicks into the notification when received. 
+
+Wireframes 
+
+<img src="./Student_WireFlow.jpeg" width = "80%">
+
+User Journey
+
+1. Push the notification that says "Click here to see today's homework!"
+2. Select the pdf button under the homework section
+3. Select the question mark button to ask a question while viewing the pdf
+4. Select the textbook on the question screen to begin typing 
+5. Input the question and select the checkmark button when done 
+6. Teacher notified of question
+
+<img src="./Student_WireFlow_Annotated.jpeg" width = "80%">
+
+2. Redesigned lunch menu for parents
+
+>In the wireframes below I sketched the user journey that a curious parent might take if they wanted to stay informed about what is being served for lunch and its subsequent nutrition and pricing information. 
+
+Wireframes 
+
+<img src="./Parent_WireFlow.jpeg" width = "80%">
+
+User Journey
+
+1. Select the MTPS mobile application 
+2. Select the lunch button on the bottom of the section
+3. Select "pizza" under today's lunch date
+4. View pizza information and select back when done viewing 
+5. Select "panini" under tomorrow's lunch date
+6. View panini information 
+
+<img src="./Parent_WireFlow_Annotated.jpeg" width = "80%">
