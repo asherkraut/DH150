@@ -19,3 +19,8 @@ Nathaniel "Asher" Kraut
 ## Wireframes and User Flows
 
 1. Teacher notification system for uploading homework 
+
+>In the wireframes below I sketched the user journey a teacher would take when receiving a push notification to upload her homework in the morning. Note that the beinning of the flow assumes the user receives a push notification at 7:45am daily saying "Click here to upload the homework of the day!"
+
+Wireframes
+
