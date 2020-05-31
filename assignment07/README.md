@@ -1,4 +1,4 @@
-# High-Fidelity-Prototype - Marlboro Township Public School District Mobile Application
+# High-Fidelity-Prototype : Marlboro Township Public School District Mobile Application
 
 ### DH150 Assignment07: High Fidelity Prototype by Nathaniel "Asher" Kraut
 
