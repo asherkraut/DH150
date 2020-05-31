@@ -92,3 +92,9 @@ Teacher User Journey:
 <img src="Student_WithFlow.png" width = "96%">
 
 <img src="Parent_WithFlow.png" width = "96%">
+
+## Reflection
+
+>For me, product design is extremely humbling. In fact, I think it's something that everyone, in one magnitude or another, should devote themselves to at one stage of their lives. Whether it's doing some home improvements, designing mobile applications, or creating apparel, there really is a humbling aspect of it that can not be replicated. Time and time again throughout the product design process our expectations are crushed and it is up to the designer to continuously regroup themselves, stay level headed, and implement off the valuable insight that their users give. In this case, I preformed incredible amounts of user research throughout my journey this quarter to what is now my finished product (although what's ever a finished product 😉 ), and I realized I learned a few funamental pieces of knowledge that I will need to take into account moving forward. 
+
+>For starters, there is no replacement for continuous iteration. When I look back on this project I should have been much leaner iny my deign process. In saying this, what I am referring to is the idea that having some baseline low-fidelity wireframes during user research to edit alongside the feedback is invaluable. I really should have had my wrireframes from the beginning to consistently iterate these as I was getting feedback in real time. A few times here I realized that when I back home after interviews I would frequently lose valuable feedback through the cracks even when I had recorded interviews. All in all, this quarter has been quite the learning journey and I am planning on taking user feedback even more seriously in the future to further develop my skills and designs. 
