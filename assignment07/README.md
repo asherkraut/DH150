@@ -50,4 +50,8 @@
 
 >The beauty of Figma is certainly its versatility for designers in the integrations and plug-ins it offers. One of these plug-ins is "Spark" which allows you to perform color contract tests to ensure you have designed with the optimal color schemes and users in mind. I ran color contrast tests for several different texts in my designs and attached the results below. 
 
-<img src="Parent_HighFidelity.png" width = "96%">
+<img src="Contrast_Check1.png" width = "96%">
+
+<img src="Contrast_Checker2.png" width = "96%">
+
+<img src="Contrast_Check3.png" width = "96%">
