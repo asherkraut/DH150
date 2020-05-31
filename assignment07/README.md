@@ -88,3 +88,13 @@ Teacher User Journey:
 3. Select the pizza option to see the nutrition and pricing information for the pizza
 4. Select the back button for navigational purposes
 5. Select the hot dogs option to see the nutrition and pricing information for the hot dogs
+
+## Diagram
+
+>The screenshots below outline the high-fidelity prototypes with the actual navigation nodes present so you can see which screens and buttons lead to which buttons. I've gone ahead and separated these out into the three user journeys since they are all separate interactions and do not connect whatsoever - aside from the fact that teachers must upload homework before it is visible in the student portal. 
+
+<img src="Teacher_WithFlow.png" width = "96%">
+
+<img src="Student_WithFlow.png" width = "96%">
+
+<img src="Parent_WithFlow.png" width = "96%">
