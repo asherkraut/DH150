@@ -20,8 +20,14 @@
 
 >Choosing color schemes, button formats, sizes, fonts, etc. is fundamental to any function UX, expecially for mobile applications. We'd be lying to say that the user experience is not fundamentally rooted in the user interface (UI) design. If the buttons aren't fun to interact with, why would the user do so? Additionally, if the text isn't legible how could a user possibly interact with the application? That said, I used extreme caution when deciding which color scheme to go with and ultimately decided to not stray far from the exsisting: navy blue, grey, white, black. I used white backgrounds in order to make the text on every screen pop, as well as navy blue containers to ensure users eyes' were directed subconsciously to what they needed to see. Moreover, I choose to go with the a very playful design as the primary users of this platform all still students none the less and they want a fun experience plain and simple. To play on this, I implemented rounded corner buttons giving a more flexible feel as well as bitmoji-like avatars for user photos to dim down the seriousness level. Below, you'll find my various high-fidelity wireframes for all the different user paths: teachers, students, and parents!
 
-# Teacher User Interface 
+### Teacher User Interface 
 
-# Student User Interface 
+>Below you will find the user interface for my teacher user journey. In this path, a teacher is alerted to post her homework before teaching in the morning and within just a few clicks she has the option to choose whether to upload a PDF document, text, or even an image straight to the cloud. In this journey, I emphasized convenience, speed, and minimalism, as evidenced by the simple color flows and clearly worded buttons. 
 
-# Parent User Interface 
+### Student User Interface 
+
+>Below you will find the user interface for my student user journey. This path is slightly different from the teacher flow but has its similarities for sure. Again, based on my UX research I found that undoubtedly speed is the most important aspect for students when checking their homework. Simply put, if it is not easy to do, they simply just don't do it so I know I needed to make their journey as quick and intuitive as possible. As a result, I implemented most of the same logic as I did for my teacher journey and stuck with simple colors, bold text, and white foregrounds. 
+
+### Parent User Interface 
+
+>Lastly, below you'll find my user interface for my parent user journey. In my research I actually found a different need from parents than students/teachers. Unsurprisingly so, parents focus primarily on the content! They want to see everything and anything they can, in a friednly manner. That said, I took this to heart nad made sure to display the entire nutrition facts for the lunch menu on their own pages as well as photos of the food and corresponding prices. Instead of keeping the pages as decluttered as possible I found the happy medium between stacks of information and intuitive, minimalist user interface design. 
