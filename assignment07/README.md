@@ -2,12 +2,6 @@
 
 ### DH150 Assignment07: High Fidelity Prototype by Nathaniel "Asher" Kraut
 
-- Figma Prototype Preview: https://www.figma.com/proto/tCBKyCYAGDMZtkGquJAWFj/N_Asher_Kraut_Assignment_07?node-id=1%3A2&viewport=241%2C117%2C0.09119778126478195&scaling=scale-down
-
-- Prototype Wireflow URL: https://www.figma.com/file/tCBKyCYAGDMZtkGquJAWFj/N_Asher_Kraut_Assignment_07?node-id=0%3A1
-
-- User Testing Video: https://drive.google.com/file/d/1n5zh8L44Fhu1NYfpg_4_x0VEEx8YgMHB/view?usp=sharing
-
 ## Description of Project
 
 >This quarter I chose to redesign the Marlboro Township Public School district digital education platform. The platform is used by parents, students, teachers, and administrators to reinforce the typical classroom setting. When I first began this project times were considerably different than they are now. It is no longer a luxury to have a great online education platform for schools. Instead, with COVID-19 and the racial tensions reaching new heights in the United States, a safe digital learning environment is essential. 
