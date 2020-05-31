@@ -8,10 +8,20 @@
 
 - User Testing Video: https://drive.google.com/file/d/1n5zh8L44Fhu1NYfpg_4_x0VEEx8YgMHB/view?usp=sharing
 
-## Brief Summary: Purposes and Process
+## Description of Project
 
 >This quarter I chose to redesign the Marlboro Township Public School district digital education platform. The platform is used by parents, students, teachers, and administrators to reinforce the typical classroom setting. When I first began this project times were considerably different than they are now. It is no longer a luxury to have a great online education platform for schools. Instead, with COVID-19 and the racial tensions reaching new heights in the United States, a safe digital learning environment is essential. 
 
 >That said, this redesign involved getting inside the minds of multiple different users and their unique needs. Instead of redesigning a platform that has the same, or very similar, interface for all its users, this platform proved quite different. Thus, as you will see below in my high-fidelity prototypes, there are three different user journeys/flows I chose to focus on. In my research I found that teachers needed a more efficient way to upload homework for their students and their parents to view and on the flip side, students needed a better way to view their homework. Additionally, I heard complaints time and time again from parents who wanted to send their kids to school with lunch money to purchase lunch and lighten their burden, but checking the menu as its currently done was simply too much of a hassle. 
 
 >In summation, after all was said and done I knew something could be done to improve this user experience ten fold and thus, below is my interpretation of how to make life easier for the users of this platform. The purpose of this assignment in particular is to add flair/complexity to the already exsisting low-fidelity wireframes I made in the previous assignment. When pivoting these to high-fidelity prototypes I was able to add life to my drawings if you will and truly start to gain an understanding for what my visions would look like if fully developed. This allowed me to collect improved user feedback as no more are my testers looking at blank screens but instead there's exciting fonts, colorways, buttons, and more. Ultimately, as a product designer the goal in mind should always include the question of how can we get the most quality user feedback possible in the shortest amount of time. The answer is certainly high fidelity prototypes and I am happy to have produced these and learned quite a bit more. 😊 
+
+## Interface Design
+
+>Choosing color schemes, button formats, sizes, fonts, etc. is fundamental to any function UX, expecially for mobile applications. We'd be lying to say that the user experience is not fundamentally rooted in the user interface (UI) design. If the buttons aren't fun to interact with, why would the user do so? Additionally, if the text isn't legible how could a user possibly interact with the application? That said, I used extreme caution when deciding which color scheme to go with and ultimately decided to not stray far from the exsisting: navy blue, grey, white, black. I used white backgrounds in order to make the text on every screen pop, as well as navy blue containers to ensure users eyes' were directed subconsciously to what they needed to see. Below, you'll find my various high-fidelity wireframes for all the different user paths: teachers, students, and parents. 
+
+# Teacher User Interface 
+
+# Student User Interface 
+
+# Parent User Interface 
