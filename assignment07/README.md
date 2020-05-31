@@ -44,4 +44,4 @@
 
 >For my cognitive walkthrough, since my tester was a parent of a middle school student I asked them to walk through the parent user journey designed where they can check the lunch menu and find out more information about the offerings such as price and nutrition information. In the end, the participant easily completed the task outside of a few simple mistakes that they quickly recovered from without assistance. Once again when moving through the application the user voiced their desire for more differentiaton visually between titles, buttons, and body texts, but outside of that they were extremely pleased with the functionality of the application. 
 
->Here is a link to my findings. 
+>[Here](https://docs.google.com/document/d/14Al9QeMn8BIlgOpYR2JmVJOneJzBFDcArdEqcYhcljw/edit?usp=sharing) is a link to my findings. 
