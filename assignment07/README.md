@@ -55,3 +55,36 @@
 <img src="Contrast_Checker2.png" width = "96%">
 
 <img src="Contrast_Check3.png" width = "96%">
+
+## Interactive Prototype
+
+>The interactive prototype for my teacher user journey is located [Here](https://www.figma.com/proto/tCBKyCYAGDMZtkGquJAWFj/N_Asher_Kraut_Assignment_07?node-id=1%3A2&viewport=490%2C296%2C0.1888895481824875&scaling=scale-down). 
+
+>Please note that if you are interested in viewing the prototypes for the other user journeys you can do so by accessing my entire Figma design board [Here](https://www.figma.com/file/tCBKyCYAGDMZtkGquJAWFj/N_Asher_Kraut_Assignment_07?node-id=0%3A1) and selecting the first frame of the respective journeys and then activating the prototype. I realy wanted to include all the separate links here, but unfortunately Figma does not provide me with this luxury. 
+
+I've also gone ahead and detailed the user flows that have prototyped for here below such to avoid any guessing games for my testers. 
+
+Teacher User Journey:
+
+1. Select the notification to begin
+2. Select the upload button to begin the homework upload process
+3. Select PDF button to upload a PDF document 
+4. Select the homework PDF document from your files
+5. Cancel the upload by pressing the cancel button underneath the file name or use the back button to go backwards 
+
+Student User Journey:
+
+1. Select the notification to begin
+2. Select the view button underneath the PDF document that's been uploaded for the day
+3. Select the question button to ask the teacher a question about the homework 
+4. Select the empty text box to type your question
+5. Press the submit button to submit your question to the teacher
+6. The back buttons also work for navigational purposes
+
+Teacher User Journey:
+
+1. Select the notification to begin
+2. Select the lunch option on the home screen
+3. Select the pizza option to see the nutrition and pricing information for the pizza
+4. Select the back button for navigational purposes
+5. Select the hot dogs option to see the nutrition and pricing information for the hot dogs
