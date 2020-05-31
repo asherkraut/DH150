@@ -37,3 +37,11 @@
 >Lastly, below you'll find my user interface for my parent user journey. In my research I actually found a different need from parents than students/teachers. Unsurprisingly so, parents focus primarily on the content! They want to see everything and anything they can, in a friednly manner. That said, I took this to heart nad made sure to display the entire nutrition facts for the lunch menu on their own pages as well as photos of the food and corresponding prices. Instead of keeping the pages as decluttered as possible I found the happy medium between stacks of information and intuitive, minimalist user interface design. 
 
 <img src="Parent_HighFidelity.png" width = "96%">
+
+## Impression Test and Cognitive Walkthrough
+
+>It's always tough to hear stylish comments that you don't want to hear but that doesn't mean that we shouldn't pay them any attention! In my impression test the results were largely positive outside from "personal perference" UI design related comments, as referred to by the user. It was clear what the application's purpose was from the start and they even referred to its design as fun - which was awesome to hear since this was my intended feel! They suggested perhaps changing my button design from rectangles to circles to make them more intuitive but outside of that the first impressions were great and exactly what I wanted to hear. 
+
+>For my cognitive walkthrough, since my tester was a parent of a middle school student I asked them to walk through the parent user journey designed where they can check the lunch menu and find out more information about the offerings such as price and nutrition information. In the end, the participant easily completed the task outside of a few simple mistakes that they quickly recovered from without assistance. Once again when moving through the application the user voiced their desire for more differentiaton visually between titles, buttons, and body texts, but outside of that they were extremely pleased with the functionality of the application. 
+
+>Here is a link to my findings. 
